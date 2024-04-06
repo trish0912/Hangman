@@ -6,7 +6,7 @@ from art import logo, stages
 
 print(logo)
 random_word = random.choice(word_list)
-print(random_word)
+
 
 game_start = True
 lives = 6
