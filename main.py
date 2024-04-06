@@ -1,4 +1,4 @@
-#Step 5
+
 
 import random, os
 from word import word_list
